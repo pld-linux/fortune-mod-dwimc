@@ -8,6 +8,7 @@ Group:		Applications/Games
 BuildRequires:	fortune-mod
 Requires:	fortune-mod
 Source0:	dwimc.tgz
+# Source0-md5:	ff5b1c6bb8208b208d7aba9026b2b635
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
