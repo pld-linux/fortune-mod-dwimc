@@ -1,5 +1,5 @@
 Summary:	Collection of Dude! Where Is My Car ?!
-Summary(pl.UTF-8):   Zestaw fortunek z filmu Stary! Gdzie jest moja bryka?
+Summary(pl.UTF-8):	Zestaw fortunek z filmu Stary! Gdzie jest moja bryka?
 Name:		fortune-mod-dwimc
 Version:	1.0
 Release:	1
